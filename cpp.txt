@@ -8,7 +8,7 @@ void quicksort()
 }
 void bubblesort()
 {
-      hello
+
 }
 
 int main()
