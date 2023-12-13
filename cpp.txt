@@ -2,6 +2,11 @@
 #include<conio.h>
 using namespace std;
 
+void quicksort()
+{
+
+}
+
 int main()
 {
          clrscr();
