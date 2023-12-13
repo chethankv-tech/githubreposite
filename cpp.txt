@@ -6,6 +6,10 @@ void quicksort()
 {
 
 }
+void bubblesort()
+{
+
+}
 
 int main()
 {
